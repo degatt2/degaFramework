@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/DegaFramework/!svn/ver/5/trunk/src/dega/config/services
+END
+AnalyticsConfiguration.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/config/services/AnalyticsConfiguration.as
+END
+LanguagesConfiguration.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/config/services/LanguagesConfiguration.as
+END
+ServerConfiguration.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/config/services/ServerConfiguration.as
+END
+AssetsConfiguration.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/config/services/AssetsConfiguration.as
+END
+VimeoConfiguration.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/config/services/VimeoConfiguration.as
+END
+PicasaConfiguration.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/config/services/PicasaConfiguration.as
+END

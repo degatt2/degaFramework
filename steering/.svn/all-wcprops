@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/steering
+END
+SteeredVehicle.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/steering/SteeredVehicle.as
+END
+Vehicle.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/steering/Vehicle.as
+END
+Vector2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/steering/Vector2D.as
+END

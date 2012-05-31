@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/xml
+END
+XMLUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/DegaFramework/!svn/ver/5/trunk/src/dega/xml/XMLUtil.as
+END
+XmlSort.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/xml/XmlSort.as
+END
+LoadXMLBulk.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/xml/LoadXMLBulk.as
+END
+LoadXML.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/xml/LoadXML.as
+END

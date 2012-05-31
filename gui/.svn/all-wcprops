@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/gui
+END
+ButtonSend.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/gui/ButtonSend.as
+END
+IconValidator.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/gui/IconValidator.as
+END
+EmailValidator.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/gui/EmailValidator.as
+END
+ContactForm.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/gui/ContactForm.as
+END
+FileManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/gui/FileManager.as
+END
+TextForm.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/gui/TextForm.as
+END

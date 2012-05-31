@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/api
+END
+GoogleAnalytics.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/DegaFramework/!svn/ver/6/trunk/src/dega/api/GoogleAnalytics.as
+END
+DeepLinking.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/api/DeepLinking.as
+END
+PicasaPhotos.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/api/PicasaPhotos.as
+END
+VimeoPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/DegaFramework/!svn/ver/4/trunk/src/dega/api/VimeoPlayer.as
+END
